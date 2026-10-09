@@ -1,0 +1,12 @@
+part,wordlabel,sylllabel,seglabel,sylltree,stress,syl_from_end,n_syll,segdur
+P001,pasta,pas,p,ons,stressed,2,2,0.062
+P001,pasta,pas,a,N,stressed,2,2,0.105
+P001,pasta,pas,s,cd,stressed,2,2,0.098
+P001,pasta,ta,t,ons,unstressed,1,2,0.058
+P001,pasta,ta,a,N,unstressed,1,2,0.071
+P001,pastar,pas,p,ons,unstressed,2,2,0.060
+P001,pastar,pas,a,N,unstressed,2,2,0.074
+P001,pastar,pas,s,cd,unstressed,2,2,0.101
+P001,pastar,tar,t,ons,stressed,1,2,0.066
+P001,pastar,tar,a,N,stressed,1,2,0.112
+P001,pastar,tar,4,cd,stressed,1,2,0.045
